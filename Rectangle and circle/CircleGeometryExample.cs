@@ -14,7 +14,7 @@ public class Rectangle
     }
 
 }
-class Program
+class CircleGeometryExample
 {
     static void Main(string[] args)
     {
